@@ -1,0 +1,27 @@
+{
+  "images" : [
+    {
+      "resizing" : {
+        "mode" : "9-part",
+        "center" : {
+          "mode" : "tile",
+          "width" : 55,
+          "height" : 1
+        },
+        "cap-insets" : {
+          "bottom" : 600,
+          "top" : 599,
+          "right" : 600,
+          "left" : 545
+        }
+      },
+      "idiom" : "universal",
+      "filename" : "wabi.jpg",
+      "scale" : "1x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
